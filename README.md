@@ -1,2 +1,3 @@
-This project is about:
-## 1. ALX REACT
+This project is about: ALX REACT
+## 1. Webpack
+## 2. React Intro
